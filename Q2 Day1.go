@@ -46,7 +46,7 @@ func printpostorder(head *node, res *string) {
 	}
 }
 
-func q2main() {
+func main() {
 	var s, pre, post string
 	var head *node
 	s = "a+b-c"
